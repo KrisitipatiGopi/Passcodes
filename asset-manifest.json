@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Passcodes/static/css/main.704f0254.css",
+    "main.js": "/Passcodes/static/js/main.9ccdd2b8.js",
+    "static/js/787.661d8eb8.chunk.js": "/Passcodes/static/js/787.661d8eb8.chunk.js",
+    "index.html": "/Passcodes/index.html",
+    "main.704f0254.css.map": "/Passcodes/static/css/main.704f0254.css.map",
+    "main.9ccdd2b8.js.map": "/Passcodes/static/js/main.9ccdd2b8.js.map",
+    "787.661d8eb8.chunk.js.map": "/Passcodes/static/js/787.661d8eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704f0254.css",
+    "static/js/main.9ccdd2b8.js"
+  ]
+}
